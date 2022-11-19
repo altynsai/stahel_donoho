@@ -1,4 +1,4 @@
-# Robust Statistics Spring 2022 KU Leuven -- Group 5
+# Robust Statistics Spring 2022 KU Leuven
 
 # Stahel-Donoho Estimator, with(out) huberized outlyingness
 
