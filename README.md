@@ -16,7 +16,7 @@ No doubt the modified estimator cannot deal well with highly correlated data. Wi
 
 In Figure 1, we plot the mean absolute errors for location estimators. We compare them for contaminated and non-contaminated components. The top boxplots show results for 10% of outliers, while bottom ones - for 20%. In general, we do not observe large errors for the estimators and they have great performance for low dimensional data with limited number of contaminated components.
 
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/101756813/203383351-0eb594fb-6438-442a-8282-4eae3fd6281a.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/101756813/203383351-0eb594fb-6438-442a-8282-4eae3fd6281a.png">
 
 Our results are completely in line with conclusions made in the article. No significant improvement takes place as the fraction of outlying data is smaller than the breakdown point. We expect that difference between the estimators increases in the next section with a bigger number of contaminated components.
 
@@ -28,4 +28,4 @@ For small distance outliers (k=6) the estimators do not differ significantly. Ov
 
 In the following table we summarize the results:
 
-<img width="386" alt="image" src="https://user-images.githubusercontent.com/101756813/203384058-d0d6547b-b876-4fbc-93c6-c598bdf58146.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/101756813/203384058-d0d6547b-b876-4fbc-93c6-c598bdf58146.png">
