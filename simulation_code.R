@@ -142,7 +142,7 @@ SD_estimators <- function(p, r, n_obs, epsilon, d, k,sdev_contam){
   
   
 }
-###################### Section 3. Simulation data #######################
+############################ Simulation data ############################
 ### Building the Table 1 for 5 dimensional data with epsilon 0.1 and 0.2 ### 
 
 
